@@ -1,0 +1,114 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 35,
+					"ch": 32
+				},
+				"to": {
+					"line": 35,
+					"ch": 53
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "PlaceholderTextColor",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 37,
+					"ch": 23
+				},
+				"to": {
+					"line": 37,
+					"ch": 31
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Placeholder",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 41,
+					"ch": 23
+				},
+				"to": {
+					"line": 41,
+					"ch": 35
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Placeholder",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 42,
+					"ch": 32
+				},
+				"to": {
+					"line": 42,
+					"ch": 53
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "PlaceholderTextColor",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 69,
+					"ch": 12
+				},
+				"to": {
+					"line": 69,
+					"ch": 14
+				}
+			},
+			"type": "number",
+			"name": "Height",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 70,
+					"ch": 11
+				},
+				"to": {
+					"line": 70,
+					"ch": 14
+				}
+			},
+			"type": "number",
+			"name": "Width",
+			"group": "TEXT INPUT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 72,
+					"ch": 17
+				},
+				"to": {
+					"line": 72,
+					"ch": 34
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BorderColor",
+			"group": "TEXT INPUT"
+		}
+	]
+}
